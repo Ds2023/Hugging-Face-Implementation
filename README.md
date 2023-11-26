@@ -9,3 +9,12 @@ We'll be implementing various NLP tasks using huggingface transformer models.
 - Semantic search (i.e. matching a query with the most appropriate result based on embeddings); and more!
 - Clustering and dimensionality reduction.
 - Text generation.
+
+# Technologies used
+
+- Python
+- Pandas
+- Numpy
+- Transfomers
+- NLP
+  
