@@ -15,6 +15,6 @@ We'll be implementing various NLP tasks using huggingface transformer models.
 - Python
 - Pandas
 - Numpy
-- Transfomers
+- Transfomer Models
 - NLP
   
